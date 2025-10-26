@@ -6,11 +6,6 @@
 [![ShellCheck](https://img.shields.io/badge/lint-ShellCheck-orange?style=for-the-badge&logo=GNU-Bash)](https://www.shellcheck.net/)
 [![tldr](https://img.shields.io/badge/help-tldr--pages-lightgrey?style=for-the-badge&logo=gitbook)](https://tldr.sh/)
 
----
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80" alt="Futuristic Terminal" width="100%" />
-</div>
 
 ---
 
